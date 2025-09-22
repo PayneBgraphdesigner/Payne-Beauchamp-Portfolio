@@ -1,0 +1,182 @@
+/* CSS Document */
+
+.flex-container {
+    width: 1920px;
+    position: center;
+    margin-top: 40px;
+    margin-bottom: 175px;
+    margin-left: 219px;
+    margin-right: 219px;
+    padding-top: 48px;
+    padding-left: 219px;
+    padding-right: 219px;
+    padding-bottom: 175px;
+    background-color: #B8B8B8;
+}
+
+
+Body {
+	..mitr-extralight {
+  font-family: "Mitr", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.mitr-light {
+  font-family: "Mitr", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.mitr-regular {
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mitr-medium {
+  font-family: "Mitr", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.mitr-semibold {
+  font-family: "Mitr", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.mitr-bold {
+  font-family: "Mitr", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+	.domain logo{
+    margin-left: 0px;
+		
+	}
+	
+	
+	h1 {
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 43px;
+	}
+	
+	h2 {
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	}
+	
+	h3 {
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	}
+	
+	
+	li {
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+	}
+	
+	.th{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 85px;
+	}
+	
+	.td{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;		
+	}
+	
+	
+	.typography{
+    display: table;		
+	}
+	
+	
+	.Bold{
+    font-family: "Mitr", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 49px;
+    text-indent: 654px;
+	}
+	
+	.Thin{
+    font-family: "Mitr", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 108px;
+    margin-bottom: 108px;
+    font-size: 49px;
+    text-indent: 654px;
+	}
+	
+	.vineimg{
+    align-content: center;
+    padding-left: 85px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	}
+	
+	.Color Palette {
+    display: table;
+	}
+	
+	.table{
+    align-content: center;
+    width: 500;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    right: 0px;
+	}
+	
+	.vineimg{
+		position: center;
+	}
+	
+	.logo variations{
+		
+	}
+	
+	.Primary-flex-item{
+    color: #70DBE3;
+    padding-top: 119px;
+    padding-right: 174px;
+    padding-bottom: 119px;
+    padding-left: 174px;
+    background-color: #70DBE3;
+    margin-right: 21px;
+	}
+	
+	.Secondary-flex-item{
+    color: #323CA9;
+    padding-top: 119px;
+    padding-right: 174px;
+    padding-bottom: 119px;
+    padding-left: 174px;
+    background-color: #323CA9;
+    margin-right: 21px;
+	}
+	
+	.Tertiary-flex-item{
+    color: #3AA362;
+    padding-top: 119px;
+    padding-right: 174px;
+    padding-bottom: 119px;
+    padding-left: 174px;
+    background-color: #3AA362;
+    margin-right: 21px;
+	}
+	
+	.Accent-flex-item{
+    color: #93B447;
+    padding-top: 119px;
+    padding-right: 174px;
+    padding-bottom: 119px;
+    padding-left: 174px;
+    background-color: #93B447;
+	}
+
+}
